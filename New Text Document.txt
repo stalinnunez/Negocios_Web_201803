@@ -1,0 +1,4 @@
+factorial del primer numero , validar que numero menor o igual a 100
+sexta determinar si el numero 1 corresponde a la secuencia de fibonachi y a que ordinal de numero corresponde, primero, segundo, a cual numero
+
+
