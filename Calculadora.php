@@ -11,7 +11,7 @@
   GET // localhost/nw/p1/formulario.php
   POST // localhost/nw/p1/formulario.php  --- body las variables
 
-  Hola hola
+  Hola hola Hola
   */
   if(isset($_POST["btnProcesar"])){
     $numero1 = floatval($_POST["txtNum1"]);
